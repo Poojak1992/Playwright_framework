@@ -5,5 +5,5 @@ test('add product flow', async ({ page }) => {
   const addProduct = new AddProduct(page);
   await addProduct.productAddition();
 
-  //this is to check branch local 2
+  //Today is 3 March 2026
 });
